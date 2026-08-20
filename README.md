@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="github banner.gif" width="100%" alt="Aarya Pillai banner">
+</p>
+
 ## Hi there 👋
 
 <!--
