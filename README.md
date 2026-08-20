@@ -2,48 +2,52 @@
   <img src="github banner.gif" width="100%" alt="Aarya Pillai banner">
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/aarya-pillai/"><img src="https://img.shields.io/badge/LinkedIn-C9E4F2?style=for-the-badge&logo=linkedin&logoColor=4F5250"></a>
+  <a href="https://leetcode.com/u/aaryapillai/"><img src="https://img.shields.io/badge/LeetCode-D5E5D5?style=for-the-badge&logo=leetcode&logoColor=4F5250"></a>
+</p>
 <br>
 
-I like data, asking too many questions about it, and eventually turning it into something useful.
+I like data, finding the stories hidden in it, and turning those findings into something useful.
 
-I'm an **MS Computer Science graduate** interested in **data analytics & data engineering**. I enjoy working across the data lifecycle — from transforming and modeling data to figuring out what it's actually trying to tell us.
-
-Currently somewhere between **writing SQL, building with dbt, creating dashboards and convincing my code to behave.** ☁️
+I'm an MS Computer Science graduate interested in data analytics & data engineering. I enjoy working across the data lifecycle- from transforming and modeling data to uncovering patterns and turning them into meaningful insights.
 
 <br>
 
 <p align="center">⋆｡°✩ ───────────── ✩°｡⋆</p>
 
 ## what i've built ✦
-<table> <tr> <td width="100%" valign="top">
+<table>
+<tr>
+<td width="100%" valign="top">
 
-📊 Revenue Quality Analytics Pipeline
+<h3 align="center">Revenue Quality Analytics Pipeline</h3>
 
-DuckDB · dbt · SQL · Power BI
+<p align="center">
+  <b>DuckDB · dbt · SQL (PostgreSQL) · Power BI</b>
+</p>
 
-Where are we losing revenue, and why?
+<p align="center">
+  <i>Where are we losing revenue, and why?</i>
+</p>
 
-An end-to-end analytics pipeline built across 70K+ transactional records to investigate revenue retention, discount dependency, refunds, and product performance.
 
-Built a layered ELT workflow from staging → intermediate transformations → analytical marts, with 12+ dbt models, data validation, documentation, and an interactive Power BI dashboard.
+Built an <b>end-to-end ELT analytics pipeline</b> across <b>70K+ transactional sales records</b>, transforming raw data through staging, intermediate, and mart layers with <b>dbt</b> and DuckDB. Incorporated data quality testing, validation, documentation, and lineage to maintain reliability across the pipeline.
 
-Highlights
-
-70K+ transactional records analyzed
-Layered staging → intermediate → marts architecture
-12+ modular dbt models
-Revenue retention, discount dependency & refund analysis
-Interactive Power BI dashboard
-Data quality testing & documentation
+Created <b>12 analytical models</b> to investigate pricing effectiveness, discount dependency, refund impact, and revenue retention, then translated the findings into an interactive <b>Power BI dashboard</b> for product- and category-level analysis.
 
 <br>
 
-<p align="center"> <a href="https://github.com/aarya-pillai/revenue-quality-analytics-pipeline"> <b>✦ explore the project →</b> </a> </p>
+<p align="center">
+  <a href="https://github.com/aarya-pillai/revenue-quality-analytics-pipeline">
+    <b>explore the project →</b>
+  </a>
+</p>
 
-</td> </tr> </table>
-
+</td>
+</tr>
+</table>
 <br>
-
 <p align="center">⋆｡°✩ ───────────── ✩°｡⋆</p>
 
 ## my tech stack ୨୧
@@ -75,5 +79,5 @@ Microsoft Excel (Pivot Tables, Data Manipulation) · Jupyter Notebook · VS Code
 <br>
 
 <p align="center">
-  ⋆｡°✩ thanks for stopping by ✩°｡⋆
+  <b>⋆｡°✩ thanks for stopping by ✩°｡⋆</p></b>
 </p>
