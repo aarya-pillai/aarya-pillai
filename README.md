@@ -8,9 +8,10 @@
 </p>
 <br>
 
+<b>HI THERE!</b>
 I like data, finding the stories hidden in it, and turning those findings into something useful.
 
-I'm an MS Computer Science graduate interested in data analytics & data engineering. I enjoy working across the data lifecycle- from transforming and modeling data to uncovering patterns and turning them into meaningful insights.
+I'm an **MS Computer Science graduate** interested in **data analytics & data engineering**. I enjoy working across the data lifecycle- from transforming and modeling data to uncovering patterns and turning them into meaningful insights.
 
 <br>
 
@@ -77,7 +78,7 @@ Microsoft Excel (Pivot Tables, Data Manipulation) · Jupyter Notebook · VS Code
 
 
 <br>
-
+<br>
 <p align="center">
-  <b>⋆｡°✩ thanks for stopping by ✩°｡⋆</p></b>
+  <b>⋆｡°✩ thanks for stopping by ✩°｡⋆</b></p>
 </p>
