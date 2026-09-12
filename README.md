@@ -34,7 +34,7 @@ I'm an **MS Computer Science graduate** interested in **data analytics & data en
   <i>What drives customer satisfaction, and where are operational bottlenecks occurring?</i>
 </p>
 
-Built an <b>end-to-end cloud analytics pipeline</b> using an e-commerce dataset, integrating data from <b>9 relational sources</b> across PostgreSQL, Python, BigQuery, and dbt.
+Built an <b>end-to-end cloud analytics pipeline</b> using an e-commerce dataset, integrating data from <b> relational sources</b> across PostgreSQL, Python, BigQuery, and dbt.
 
 Transformed raw data through staging, intermediate, and mart layers with <b>data quality testing and dimensional modeling</b>, then analyzed order fulfillment, delivery performance, seller performance, and customer reviews through an interactive <b>Power BI dashboard</b>.
 <br>
